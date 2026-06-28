@@ -9,7 +9,7 @@ const stories = [
     gradientCard: "linear-gradient(135deg, #1a0a3e, #2d5a1a)",
     pages: [
       {
-        text: `The sun had just dipped behind the hills when Ellie grabbed her little sister's hand.\n\n"Katers," she whispered, eyes wide, "the fireflies are gone."\n\nEvery summer night, hundreds of tiny golden lights danced above the meadow behind the house. But tonight — nothing. Just darkness.\n\nKatie looked around slowly, then looked up at Ellie. "Where did they go?"\n\n"I don't know," said Ellie Girl. "But we're going to find out."\n\nKatie squeezed her big sister's hand a little tighter. That was enough. If Ellie said they'd find out, they'd find out.`,
+        text: `The sun had just dipped behind the hills when Ellie grabbed her little sister's hand.\n\n"Katers," she whispered, eyes wide, "the fireflies are gone."\n\nEvery summer night, hundreds of tiny golden lights danced above the meadow behind the house on Hidden Trail. But tonight — nothing. Just darkness.\n\nKatie looked around slowly, then looked up at Ellie. "Where did they go?"\n\n"I don't know," said Ellie Girl. "But we're going to find out."\n\nKatie squeezed her big sister's hand a little tighter. That was enough. If Ellie said they'd find out, they'd find out.`,
         emoji: "🌑",
         gradient: "linear-gradient(160deg, #1a0a3e 0%, #2d1b69 50%, #1a2a1a 100%)"
       },
@@ -132,27 +132,27 @@ const stories = [
     gradientCard: "linear-gradient(135deg, #0a5a8e, #1a9a6e)",
     pages: [
       {
-        text: `Eight minutes. That's all it took to get to Pops and Gigi's house — eight glorious minutes from their driveway in Michigan to the lake.\n\nEllie Girl counted every one of them out loud. Including the seconds.\n\nKatie sat next to her, nose pressed to the window, watching the water get closer and closer with the focused look of someone with very important plans.\n\n"TODAY," Katie announced, "is going to be a great day."\n\n"It really is, Katers," said Daddy.\n\n"Ry," said Mommy from the passenger seat, "you said that and then forgot the sunscreen last time."\n\n"I have the sunscreen, Shel."\n\n"I'm just saying."`,
+        text: `Eight minutes. That's all it took to get from Hidden Trail to Pops and Gigi's house on Little Crooked Lake — eight glorious minutes.\n\nEllie Girl counted every one of them out loud. Including the seconds.\n\nKatie sat next to her, nose pressed to the window, watching the water get closer and closer with the focused look of someone with very important plans.\n\n"TODAY," Katie announced, "is going to be a great day."\n\n"It really is, Katers," said Daddy.\n\n"Ry," said Mommy from the passenger seat, "you said that and then forgot the sunscreen last time."\n\n"I have the sunscreen, Shel."\n\n"I'm just saying."`,
         emoji: "🌊",
         gradient: "linear-gradient(160deg, #87CEEB 0%, #1a9abe 50%, #0a6a8e 100%)"
       },
       {
-        text: `Pops was already on the dock in his fishing hat, getting the boat ready. Gigi had snacks laid out like she was feeding a small army — because she always did, because Gigi was simply the best.\n\n"MY GIRLS!" Gigi called, arms wide open.\n\nEllie ran into them and immediately started telling Gigi everything that had happened since Tuesday. All of it. In one breath.\n\nKatie went straight to Pops and tugged his sleeve. "Pops. Boat. Now."\n\nPops laughed. "Soon as Daddy helps me with this rope."\n\nKatie studied the rope. "I can try."\n\nShe couldn't quite get it — but she tried so hard that Pops and Daddy both cheered when she got partway through. Pops looked at Daddy. Daddy shrugged proudly.`,
+        text: `Pops was already on the dock at Edgewood Shores, fishing hat on, getting the boat ready. Gigi had snacks laid out on the back porch like she was feeding a small army — because she always did, because Gigi was simply the best.\n\n"MY GIRLS!" Gigi called, arms wide open.\n\nEllie ran into them and immediately started telling Gigi everything that had happened since Tuesday. All of it. In one breath.\n\nKatie went straight to Pops and tugged his sleeve. "Pops. Boat. Now."\n\nPops laughed. "Soon as Daddy helps me with this rope."\n\nKatie studied the rope seriously. "I can try."\n\nShe couldn't quite get it — but she tried so hard that Pops and Daddy both cheered when she got partway through. Pops looked at Daddy. Daddy shrugged proudly.`,
         emoji: "🎣",
         gradient: "linear-gradient(160deg, #0a5a8e 0%, #1a8abe 40%, #2aaa7e 100%)"
       },
       {
-        text: `Out on the lake, the wind was perfect and the water was bright blue and Ellie Girl was singing a Frozen song at full volume across the open water.\n\n"ELLIE." Daddy said.\n\n"THE WIND IS BLOWING IT AWAY, DADDY, I HAVE TO SING LOUDER."\n\nPops just laughed. Gigi handed everyone juice boxes.\n\nThen Ellie spotted something. A little duck, way out from the reeds, spinning in circles — one wing tangled in a piece of fishing line.\n\n"Daddy," Ellie said, grabbing his arm. "That duck is hurt. We have to help it."\n\nKatie stood up in the boat to look. "Help the duck," she agreed immediately. "Let's go."`,
+        text: `Out on Little Crooked Lake, the wind was perfect and the water was bright blue and Ellie Girl was singing a Frozen song at full volume across the open water.\n\n"ELLIE." Daddy said.\n\n"THE WIND IS BLOWING IT AWAY, DADDY, I HAVE TO SING LOUDER."\n\nPops just laughed. Gigi handed everyone juice boxes.\n\nThen Ellie spotted something. A little duck, way out from the reeds, spinning in circles — one wing tangled in a piece of fishing line.\n\n"Daddy," Ellie said, grabbing his arm. "That duck is hurt. We have to help it."\n\nKatie stood up in the boat to look. "Help the duck," she agreed immediately. "Let's go."`,
         emoji: "🦆",
         gradient: "linear-gradient(160deg, #1a7abe 0%, #0a5a8e 40%, #2a8a4e 100%)"
       },
       {
-        text: `Pops steered close. The duck splashed and fussed. Ellie leaned over the side, and Daddy held her waist steady while she carefully worked the fishing line loose with her fingers.\n\nKatie knelt right beside her, watching every move, handing Ellie's arm back when she wobbled. A tiny little helper.\n\nThen — free. The duck shook its whole body, ruffled its feathers, and paddled away fast like nothing happened. No thank you. Just gone.\n\nKatie watched it go. "You're welcome," she said flatly.\n\nEveryone on the boat completely lost it.`,
+        text: `Pops steered close. The duck splashed and fussed. Ellie leaned over the side, and Daddy held her waist steady while she carefully worked the fishing line loose with her fingers.\n\nKatie knelt right beside her, watching every move, steadying Ellie's arm when she wobbled. A tiny little helper.\n\nThen — free. The duck shook its whole body, ruffled its feathers, and paddled away fast like nothing happened. No thank you. Just gone.\n\nKatie watched it go. "You're welcome," she said flatly.\n\nEveryone on the boat completely lost it.`,
         emoji: "🙌",
         gradient: "linear-gradient(160deg, #0a4a6e 0%, #1a8a9e 50%, #2aaa6e 100%)"
       },
       {
-        text: `On the way back to the dock, Daddy sat with both girls at the front of the boat, wind in their faces.\n\n"You know what you did today?" he said. "You saw something hurting and you didn't just watch — you *moved.* Both of you." He looked at Ellie. "You led." He looked at Katie. "And you helped."\n\n"Jesus was like that," Ellie said quietly. She'd been thinking about it.\n\n"Exactly right, Ellie Girl. He always moved toward the ones who were hurting. He never just watched."\n\nKatie leaned into Ellie's side. Ellie put her arm around her little sister.\n\nGigi had dinner ready the second they hit the dock. 🌟`,
+        text: `On the way back to the dock, Daddy sat with both girls at the front of the boat, the warm Michigan wind in their faces.\n\n"You know what you did today?" he said. "You saw something hurting and you didn't just watch — you *moved.* Both of you." He looked at Ellie. "You led." He looked at Katie. "And you helped."\n\n"Jesus was like that," Ellie said quietly. She'd been thinking about it.\n\n"Exactly right, Ellie Girl. He always moved toward the ones who were hurting. He never just watched."\n\nKatie leaned into Ellie's side. Ellie put her arm around her little sister.\n\nGigi had dinner ready the second they hit the dock. 🌟`,
         emoji: "🌅",
         gradient: "linear-gradient(160deg, #FF8C42 0%, #FFB347 30%, #1a8abe 70%, #0a5a8e 100%)"
       }
@@ -163,7 +163,89 @@ const stories = [
       "Daddy said Jesus always moved *toward* the ones who were hurting. What does that tell you about what Jesus is like?",
       "Ellie led and Katie helped — they worked together. How can you and your sister be a team like that tomorrow?"
     ],
-    prayer: "Dear Jesus,\n\nThank You for lake days and Pops and Gigi and boat rides and the way Michigan summers feel like pure gift.\n\nThank You for giving Ellie Girl a heart that notices when something is hurting — and moves to help. And thank You for giving Katers a heart that jumps in right beside her.\n\nHelp them see the people around them who need kindness. Give them the courage to move toward them, just like You always did.\n\nYou are so good to this family, Jesus.\n\nNow rest these girls. They earned it.\n\nWe love You.\n\nAmen. 🙏"
+    prayer: "Dear Jesus,\n\nThank You for lake days on Little Crooked Lake and Pops and Gigi and boat rides and the way Michigan summers feel like pure gift.\n\nThank You for giving Ellie Girl a heart that notices when something is hurting — and moves to help. And thank You for giving Katers a heart that jumps in right beside her.\n\nHelp them see the people around them who need kindness. Give them the courage to move toward them, just like You always did.\n\nYou are so good to this family, Jesus.\n\nNow rest these girls. They earned it.\n\nWe love You.\n\nAmen. 🙏"
+  },
+  {
+    id: 5,
+    title: "The Backwards Bedtime",
+    episode: "Episode 5",
+    emoji: "🌙",
+    gradientCard: "linear-gradient(135deg, #2d1b69, #6a0a3e)",
+    pages: [
+      {
+        text: `It was bedtime on Hidden Trail, which meant one thing: chaos.\n\nDaddy had a plan. Daddy always had a plan. Bath, pajamas, brush teeth, story, bed. Simple. Logical. Perfect.\n\nEllie Girl had a different plan. Her plan involved three costume changes, a full performance of "Let It Go," and a very important announcement that she was NOT tired and in fact had never been tired in her entire life.\n\n"Ellie Girl." Daddy stood in the hallway with his arms crossed.\n\n"Just one more song, Daddy."\n\n"It's eight o'clock."\n\n"I do my best singing at eight o'clock."\n\nFrom the bathroom, they heard a splash. Then: "Oops."\n\nThat was Katers.`,
+        emoji: "🛁",
+        gradient: "linear-gradient(160deg, #2d1b69 0%, #4a0a5e 50%, #1a0a3e 100%)"
+      },
+      {
+        text: `Daddy found Katie standing in the bathroom looking extremely innocent next to a very wet floor.\n\n"Katers. What happened?"\n\n"The water jumped out."\n\n"Water doesn't just jump out."\n\nKatie thought about this. "This water did."\n\nDaddy took a deep breath. Mommy appeared in the doorway, assessed the situation, kissed Daddy on the cheek, and handed him a towel. "You've got this, Ry."\n\n"Thank you, Shel."\n\n"I'll pray for you."\n\nShe walked away. Daddy was pretty sure she was laughing.`,
+        emoji: "💦",
+        gradient: "linear-gradient(160deg, #1a0a4e 0%, #2d1b69 50%, #0a1a4e 100%)"
+      },
+      {
+        text: `Finally — finally — both girls were in pajamas, teeth brushed, tucked into bed.\n\nEllie Girl had approximately fourteen stuffed animals arranged in a very specific order that took several minutes to get right.\n\nKatie was already holding her blanket, eyes drooping, trying very hard to look awake.\n\n"Daddy," Ellie said, "why do we have to sleep? I don't want to stop the day."\n\nDaddy sat on the edge of the bed. That was a real question. He thought about it for a second.\n\n"Because God made rest on purpose," he said. "Did you know that? Even God rested. After He made the whole world — the sun, the stars, the lake, the fireflies — He rested. Because rest is a gift."`,
+        emoji: "🌟",
+        gradient: "linear-gradient(160deg, #0a0a2e 0%, #1a0a4e 50%, #2d1b69 100%)"
+      },
+      {
+        text: `Ellie considered this very seriously. "God rested?"\n\n"He did. And when you sleep, God doesn't. He stays up watching over you all night long. The Bible says He never sleeps, never takes a break. So while *you* rest — He's working." Daddy tucked the blanket up around Katie, who was approximately forty-five seconds from being completely asleep. "It means you can close your eyes and not be scared. Because He's got you."\n\n"The whole night?" Ellie asked.\n\n"The whole night," Daddy said. "Every single minute."`,
+        emoji: "🌙",
+        gradient: "linear-gradient(160deg, #0a0a1e 0%, #1a0a3e 40%, #0d1a3e 100%)"
+      },
+      {
+        text: `Ellie Girl was quiet for a moment. Then she reached over and took Katie's hand under the blanket — even though Katers was nearly asleep.\n\n"Katers," she whispered. "Jesus watches us all night. So we don't have to be scared."\n\nKatie didn't open her eyes. But she smiled. Just a tiny little smile.\n\nDaddy kissed Ellie Girl's forehead. Then Katie's. He stood up and looked at his two girls — all tucked in, hand in hand, safe and small.\n\n"Goodnight, Ellie Girl."\n\n"Goodnight, Daddy."\n\n"Goodnight, Katers."\n\nA tiny voice: "Night, Daddy."\n\nHe turned the light off. And Jesus kept the watch. 🌟`,
+        emoji: "⭐",
+        gradient: "linear-gradient(160deg, #050510 0%, #0a0a2e 50%, #0a1428 100%)"
+      }
+    ],
+    lesson: "God never sleeps — He watches over us every single night.",
+    questions: [
+      "Daddy said God never sleeps and watches over us all night. How does that make you feel when the lights go off?",
+      "God rested after making the world and said rest is a gift. What is your favorite thing about bedtime?",
+      "Ellie told Katie 'we don't have to be scared' because Jesus is watching. How can YOU remind someone that Jesus is always with them?"
+    ],
+    prayer: "Dear Jesus,\n\nThank You that You never sleep. While Ellie Girl and Katers close their eyes tonight, You are right here — watching over them, keeping them safe, holding them close.\n\nThank You for the gift of rest. Let their bodies rest, let their minds be still, and let their hearts feel how loved they are.\n\nThey are Yours, Jesus. And You've got them all night long.\n\nWe love You.\n\nAmen. 🙏"
+  },
+  {
+    id: 6,
+    title: "The Thunderstorm Teammates",
+    episode: "Episode 6",
+    emoji: "⛈️",
+    gradientCard: "linear-gradient(135deg, #1a2a4e, #3a1a5e)",
+    pages: [
+      {
+        text: `It started with a rumble.\n\nEllie Girl heard it first — a low, faraway sound that rolled across the Howell sky and rattled the windows just a little.\n\nShe sat up in bed. Listened. Another rumble. Closer.\n\nShe looked across the room at Katie's bed. Katie was sitting up too, blanket pulled up to her chin, eyes wide.\n\n"Ellie," Katie whispered.\n\n"I know," Ellie whispered back. "Come here, Katers."\n\nKatie was across the room and into Ellie's bed in about four seconds flat. They pulled the blanket up together and listened to the storm roll in over Hidden Trail.`,
+        emoji: "⛈️",
+        gradient: "linear-gradient(160deg, #1a2a4e 0%, #2a1a5e 50%, #0a0a2e 100%)"
+      },
+      {
+        text: `CRACK. A big one. The whole room lit up white for just a second.\n\nKatie made a small sound and buried her face in Ellie's shoulder.\n\nEllie put her arm around her little sister. She was a little scared too — but she was the big sister. So she held on tighter.\n\n"It's just thunder," Ellie said. "It can't get in."\n\n"It's really loud," Katie said, muffled by Ellie's pajamas.\n\n"I know. But Daddy says loud things can't hurt you."\n\n"When did Daddy say that?"\n\nEllie thought about it. "He will say it. Probably right now actually."\n\nAnd right on cue — footsteps in the hall.`,
+        emoji: "⚡",
+        gradient: "linear-gradient(160deg, #0a0a2e 0%, #1a1a5e 40%, #2a1a4e 100%)"
+      },
+      {
+        text: `Daddy appeared in the doorway in his old workout shirt, hair going seventeen directions, looking like a man who had been asleep for approximately four minutes.\n\n"Okay," he said, taking in the situation — two girls, one bed, blanket fortress. "I see we've set up the command center."\n\n"The thunder is very loud, Daddy," Katie reported from inside the blanket.\n\n"It is loud," Daddy agreed, sitting right on the edge of the bed. "Scoot over."\n\nThey scooted. He squeezed in. Three of them now, watching the lightning flash through the curtains.\n\n"Is Mommy scared?" Ellie asked.\n\n"Mommy is asleep," Daddy said.\n\n"How?"\n\n"Your mother is a mystery, Ellie Girl."`,
+        emoji: "🌩️",
+        gradient: "linear-gradient(160deg, #1a1a4e 0%, #2a1a5e 50%, #1a0a3e 100%)"
+      },
+      {
+        text: `Another big flash. Katie grabbed Daddy's arm with both hands.\n\nDaddy didn't flinch. He just sat there, steady and solid, like nothing in the whole sky could move him.\n\n"Can I tell you something?" he said. "In the Bible, there was a huge storm on a lake — way bigger than this. And Jesus was right there in the boat with His friends. They were terrified. But Jesus? He just stood up and told the storm to stop. And it did."\n\nKatie looked up. "He told the storm to *stop?*"\n\n"Just like that. Because He's in charge of the thunder, Katers. He made it. It listens to Him."\n\nEllie Girl stared at the window. "So He's in charge of this storm too?"\n\n"Every cloud," Daddy said. "Every lightning bolt. Every rumble. All His."`,
+        emoji: "🙏",
+        gradient: "linear-gradient(160deg, #1a0a3e 0%, #2a1a5e 40%, #0a1a4e 100%)"
+      },
+      {
+        text: `The storm kept going for a while. But something had changed. It felt different now — less like something scary outside, and more like something that belonged to Someone they knew.\n\nKatie relaxed her grip on Daddy's arm. Just a little.\n\nEllie Girl leaned her head on his shoulder. "Daddy, will you stay until it's done?"\n\n"I'll stay," he said.\n\nKatie snuggled in on the other side. The three of them sat there together — Daddy steady in the middle, a girl on each side — while Jesus held the storm in His hands outside.\n\nBy the time the thunder got quiet, both girls were asleep.\n\nDaddy stayed anyway. 🌟`,
+        emoji: "🌈",
+        gradient: "linear-gradient(160deg, #1a0a3e 0%, #2d1b69 40%, #1a3a5e 100%)"
+      }
+    ],
+    lesson: "Jesus is in charge of every storm — and He is always with us.",
+    questions: [
+      "When the storm came, what did Ellie do for Katie right away? How can you do that for someone you love?",
+      "Jesus told the storm to stop and it listened. What does that tell you about how powerful Jesus is?",
+      "Daddy stayed even after the girls fell asleep. Who is someone in your life who always stays with you when things are scary?"
+    ],
+    prayer: "Dear Jesus,\n\nThank You that You are in charge of every storm — every rumble of thunder, every flash of lightning, every scary sound in the night. It all belongs to You.\n\nWhen Ellie Girl and Katers feel scared, remind them that You are right there. That You spoke to the storm and it listened. And that You will never, ever leave them.\n\nThank You for big sisters who hold on tight. Thank You for daddies who stay.\n\nAnd thank You, Jesus, that You always stay too.\n\nWe love You.\n\nAmen. 🙏"
   }
 ];
 
@@ -234,12 +316,10 @@ function PrayerScreen({ story, onBack, onDone }) {
     <div style={{ minHeight: "100vh", background: BG, display: "flex", flexDirection: "column", alignItems: "center" }}>
       <TopBar
         left={<BackButton onClick={onBack} />}
-        center={
-          <div>
-            <div style={{ color: "#FFD700", fontSize: "11px", fontFamily: "'Georgia', serif", letterSpacing: "1.5px", textTransform: "uppercase" }}>{story.episode}</div>
-            <div style={{ color: "#C9A8FF", fontSize: "14px", fontFamily: "'Georgia', serif" }}>Bedtime Prayer</div>
-          </div>
-        }
+        center={<div>
+          <div style={{ color: "#FFD700", fontSize: "11px", fontFamily: "'Georgia', serif", letterSpacing: "1.5px", textTransform: "uppercase" }}>{story.episode}</div>
+          <div style={{ color: "#C9A8FF", fontSize: "14px", fontFamily: "'Georgia', serif" }}>Bedtime Prayer</div>
+        </div>}
       />
       <div style={{ maxWidth: "480px", width: "100%", padding: "28px 20px 40px", display: "flex", flexDirection: "column", gap: "20px", boxSizing: "border-box" }}>
         <div style={{ textAlign: "center" }}>
@@ -272,12 +352,10 @@ function QuestionsScreen({ story, onBack, onNext }) {
     <div style={{ minHeight: "100vh", background: BG, display: "flex", flexDirection: "column", alignItems: "center" }}>
       <TopBar
         left={<BackButton onClick={onBack} />}
-        center={
-          <div>
-            <div style={{ color: "#FFD700", fontSize: "11px", fontFamily: "'Georgia', serif", letterSpacing: "1.5px", textTransform: "uppercase" }}>{story.episode}</div>
-            <div style={{ color: "#C9A8FF", fontSize: "14px", fontFamily: "'Georgia', serif" }}>Talk It Over</div>
-          </div>
-        }
+        center={<div>
+          <div style={{ color: "#FFD700", fontSize: "11px", fontFamily: "'Georgia', serif", letterSpacing: "1.5px", textTransform: "uppercase" }}>{story.episode}</div>
+          <div style={{ color: "#C9A8FF", fontSize: "14px", fontFamily: "'Georgia', serif" }}>Talk It Over</div>
+        </div>}
       />
       <div style={{ maxWidth: "480px", width: "100%", padding: "28px 20px 40px", display: "flex", flexDirection: "column", gap: "14px", boxSizing: "border-box" }}>
         <div style={{ textAlign: "center" }}>
@@ -317,12 +395,10 @@ function StoryScreen({ story, onBack }) {
     <div style={{ minHeight: "100vh", background: BG, display: "flex", flexDirection: "column", alignItems: "center", paddingBottom: "40px" }}>
       <TopBar
         left={<BackButton onClick={onBack} />}
-        center={
-          <div>
-            <div style={{ color: "#FFD700", fontSize: "11px", fontFamily: "'Georgia', serif", letterSpacing: "1.5px", textTransform: "uppercase" }}>{story.episode}</div>
-            <div style={{ color: "#C9A8FF", fontSize: "14px", fontFamily: "'Georgia', serif" }}>{story.title}</div>
-          </div>
-        }
+        center={<div>
+          <div style={{ color: "#FFD700", fontSize: "11px", fontFamily: "'Georgia', serif", letterSpacing: "1.5px", textTransform: "uppercase" }}>{story.episode}</div>
+          <div style={{ color: "#C9A8FF", fontSize: "14px", fontFamily: "'Georgia', serif" }}>{story.title}</div>
+        </div>}
         right={<span style={{ color: "#7B5FA4", fontSize: "13px", fontFamily: "'Georgia', serif" }}>{page + 1} / {story.pages.length}</span>}
       />
       <div style={{ display: "flex", gap: "6px", padding: "12px 0 14px", alignItems: "center" }}>
@@ -370,8 +446,7 @@ function Stars() {
       {stars.map(s => (
         <div key={s.id} style={{
           position: "absolute", width: s.size + "px", height: s.size + "px",
-          background: "#fff", borderRadius: "50%",
-          top: s.top + "%", left: s.left + "%", opacity: 0.25,
+          background: "#fff", borderRadius: "50%", top: s.top + "%", left: s.left + "%", opacity: 0.25,
           animation: `tw ${s.dur}s ease-in-out ${s.delay}s infinite alternate`
         }} />
       ))}
@@ -422,7 +497,7 @@ export default function App() {
         ))}
         <div style={{ background: "rgba(255,255,255,0.025)", border: "1px dashed rgba(255,255,255,0.09)", borderRadius: "20px", padding: "22px", textAlign: "center" }}>
           <div style={{ fontSize: "28px", marginBottom: "7px" }}>🌙</div>
-          <div style={{ fontFamily: "'Georgia', serif", color: "#3d2a5e", fontSize: "14px", fontStyle: "italic" }}>Episode 5 coming tonight at 7:30 PM...</div>
+          <div style={{ fontFamily: "'Georgia', serif", color: "#3d2a5e", fontSize: "14px", fontStyle: "italic" }}>Episode 7 coming tonight at 7:30 PM...</div>
         </div>
       </div>
 
